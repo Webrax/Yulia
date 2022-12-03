@@ -1,0 +1,15 @@
+L:\Visual Code\Project\Journal\Journal122\Journal122\bin\Debug\Database1.mdf
+L:\Visual Code\Project\Journal\Journal122\Journal122\bin\Debug\Database1_log.ldf
+L:\Visual Code\Project\Journal\Journal122\Journal122\bin\Debug\Journal122.exe.config
+L:\Visual Code\Project\Journal\Journal122\Journal122\bin\Debug\Journal122.exe
+L:\Visual Code\Project\Journal\Journal122\Journal122\bin\Debug\Journal122.pdb
+L:\Visual Code\Project\Journal\Journal122\Journal122\obj\Debug\Journal122.csproj.AssemblyReference.cache
+L:\Visual Code\Project\Journal\Journal122\Journal122\obj\Debug\Journal122.csproj.SuggestedBindingRedirects.cache
+L:\Visual Code\Project\Journal\Journal122\Journal122\obj\Debug\Journal122.Form1.resources
+L:\Visual Code\Project\Journal\Journal122\Journal122\obj\Debug\Journal122.Properties.Resources.resources
+L:\Visual Code\Project\Journal\Journal122\Journal122\obj\Debug\Journal122.csproj.GenerateResource.cache
+L:\Visual Code\Project\Journal\Journal122\Journal122\obj\Debug\Journal122.csproj.CoreCompileInputs.cache
+L:\Visual Code\Project\Journal\Journal122\Journal122\obj\Debug\Journal122.exe
+L:\Visual Code\Project\Journal\Journal122\Journal122\obj\Debug\Journal122.pdb
+L:\Visual Code\Project\Journal\Journal122\Journal122\obj\Debug\Journal122.Form2.resources
+L:\Visual Code\Project\Journal\Journal122\Journal122\obj\Debug\Journal122.Form3.resources

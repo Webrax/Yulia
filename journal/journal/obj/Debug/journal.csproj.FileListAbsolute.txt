@@ -1,0 +1,13 @@
+L:\Visual Code\Project\Journal\journal\journal\bin\Debug\journal.exe.config
+L:\Visual Code\Project\Journal\journal\journal\bin\Debug\journal.exe
+L:\Visual Code\Project\Journal\journal\journal\bin\Debug\journal.pdb
+L:\Visual Code\Project\Journal\journal\journal\obj\Debug\journal.csproj.AssemblyReference.cache
+L:\Visual Code\Project\Journal\journal\journal\obj\Debug\journal.csproj.SuggestedBindingRedirects.cache
+L:\Visual Code\Project\Journal\journal\journal\obj\Debug\journal.Form1.resources
+L:\Visual Code\Project\Journal\journal\journal\obj\Debug\journal.Properties.Resources.resources
+L:\Visual Code\Project\Journal\journal\journal\obj\Debug\journal.csproj.GenerateResource.cache
+L:\Visual Code\Project\Journal\journal\journal\obj\Debug\journal.csproj.CoreCompileInputs.cache
+L:\Visual Code\Project\Journal\journal\journal\obj\Debug\journal.exe
+L:\Visual Code\Project\Journal\journal\journal\obj\Debug\journal.pdb
+L:\Visual Code\Project\Journal\journal\journal\bin\Debug\Database1.mdf
+L:\Visual Code\Project\Journal\journal\journal\bin\Debug\Database1_log.ldf
